@@ -1,0 +1,14 @@
+{
+  "name": "revisioned-document-index",
+  "version": "1.0.0",
+  "description": "Revisioned document search service with immutable segments and snapshot cursors",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
